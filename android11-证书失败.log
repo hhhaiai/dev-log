@@ -1,0 +1,436 @@
+2021-01-29 16:37:34.232 9511-9511/? I/studio.deploy: DeltaInstall found API level:30
+2021-01-29 16:37:34.232 9511-9511/? I/studio.deploy: -t
+2021-01-29 16:37:34.232 9511-9511/? I/studio.deploy: --user
+2021-01-29 16:37:34.232 9511-9511/? I/studio.deploy: current
+2021-01-29 16:37:34.232 9511-9511/? I/studio.deploy: --full
+2021-01-29 16:37:34.232 9511-9511/? I/studio.deploy: --dont-kill
+2021-01-29 16:37:34.232 9511-9511/? I/studio.deploy: --skip-verification
+2021-01-29 16:37:34.233 9511-9511/? I/studio.deploy: -r
+2021-01-29 16:37:34.245 9512-9514/? I/cmd: oneway function results will be dropped but finished with status OK and parcel size 4
+2021-01-29 16:37:34.246 9511-9511/? I/studio.deploy: DeltaInstall created session: '782928836'
+2021-01-29 16:37:34.247 9511-9511/? I/studio.deploy: package
+2021-01-29 16:37:34.247 9511-9511/? I/studio.deploy: install-write
+2021-01-29 16:37:34.247 9511-9511/? I/studio.deploy: -S
+2021-01-29 16:37:34.247 9511-9511/? I/studio.deploy: 6038338
+2021-01-29 16:37:34.247 9511-9511/? I/studio.deploy: 782928836
+2021-01-29 16:37:34.247 9511-9511/? I/studio.deploy: base.apk
+2021-01-29 16:37:34.272 9511-9511/? I/studio.deploy: Streaming succeeded for '/data/app/~~0F5T-nUfYiF7o4349Mn2AQ==/com.good.vpn-TGKqx4_izwYAqJc_wQLOBw==/base.apk'
+2021-01-29 16:37:34.273 9511-9511/? I/studio.deploy: package
+2021-01-29 16:37:34.273 9511-9511/? I/studio.deploy: install-commit
+2021-01-29 16:37:34.273 9511-9511/? I/studio.deploy: 782928836
+2021-01-29 16:37:34.311 1544-1887/? W/PackageParsing: Ignoring duplicate uses-permissions/uses-permissions-sdk-m: android.permission.FOREGROUND_SERVICE in package: com.good.vpn at: Binary XML file line #26
+2021-01-29 16:37:34.311 1544-1887/? W/PackageParsing: Ignoring duplicate uses-permissions/uses-permissions-sdk-m: android.permission.FOREGROUND_SERVICE in package: com.good.vpn at: Binary XML file line #33
+2021-01-29 16:37:34.311 1544-1887/? W/PackageParsing: Ignoring duplicate uses-permissions/uses-permissions-sdk-m: android.permission.READ_PHONE_STATE in package: com.good.vpn at: Binary XML file line #36
+2021-01-29 16:37:34.311 1544-1887/? W/PackageParsing: Ignoring duplicate uses-permissions/uses-permissions-sdk-m: android.permission.INTERNET in package: com.good.vpn at: Binary XML file line #37
+2021-01-29 16:37:34.311 1544-1887/? W/PackageParsing: Ignoring duplicate uses-permissions/uses-permissions-sdk-m: android.permission.ACCESS_NETWORK_STATE in package: com.good.vpn at: Binary XML file line #38
+2021-01-29 16:37:34.311 1544-1887/? W/PackageParsing: Ignoring duplicate uses-permissions/uses-permissions-sdk-m: android.permission.ACCESS_WIFI_STATE in package: com.good.vpn at: Binary XML file line #39
+2021-01-29 16:37:34.311 1544-1887/? W/PackageParsing: Ignoring duplicate uses-permissions/uses-permissions-sdk-m: android.permission.READ_LOGS in package: com.good.vpn at: Binary XML file line #40
+2021-01-29 16:37:34.311 1544-1887/? W/PackageParsing: Ignoring duplicate uses-permissions/uses-permissions-sdk-m: android.permission.WRITE_EXTERNAL_STORAGE in package: com.good.vpn at: Binary XML file line #41
+2021-01-29 16:37:34.321 1544-1587/? I/PackageManager: Integrity check passed for file:///data/app/vmdl782928836.tmp
+2021-01-29 16:37:34.330 1544-1587/? W/PackageParsing: Ignoring duplicate uses-permissions/uses-permissions-sdk-m: android.permission.FOREGROUND_SERVICE in package: com.good.vpn at: Binary XML file line #26
+2021-01-29 16:37:34.330 1544-1587/? W/PackageParsing: Ignoring duplicate uses-permissions/uses-permissions-sdk-m: android.permission.FOREGROUND_SERVICE in package: com.good.vpn at: Binary XML file line #33
+2021-01-29 16:37:34.331 1544-1587/? W/PackageParsing: Ignoring duplicate uses-permissions/uses-permissions-sdk-m: android.permission.READ_PHONE_STATE in package: com.good.vpn at: Binary XML file line #36
+2021-01-29 16:37:34.331 1544-1587/? W/PackageParsing: Ignoring duplicate uses-permissions/uses-permissions-sdk-m: android.permission.INTERNET in package: com.good.vpn at: Binary XML file line #37
+2021-01-29 16:37:34.331 1544-1587/? W/PackageParsing: Ignoring duplicate uses-permissions/uses-permissions-sdk-m: android.permission.ACCESS_NETWORK_STATE in package: com.good.vpn at: Binary XML file line #38
+2021-01-29 16:37:34.331 1544-1587/? W/PackageParsing: Ignoring duplicate uses-permissions/uses-permissions-sdk-m: android.permission.ACCESS_WIFI_STATE in package: com.good.vpn at: Binary XML file line #39
+2021-01-29 16:37:34.331 1544-1587/? W/PackageParsing: Ignoring duplicate uses-permissions/uses-permissions-sdk-m: android.permission.READ_LOGS in package: com.good.vpn at: Binary XML file line #40
+2021-01-29 16:37:34.331 1544-1587/? W/PackageParsing: Ignoring duplicate uses-permissions/uses-permissions-sdk-m: android.permission.WRITE_EXTERNAL_STORAGE in package: com.good.vpn at: Binary XML file line #41
+2021-01-29 16:37:34.339 1544-1587/? I/PackageManager: Update package com.good.vpn code path from /data/app/~~0F5T-nUfYiF7o4349Mn2AQ==/com.good.vpn-TGKqx4_izwYAqJc_wQLOBw== to /data/app/~~LM5pS7PfOKm0AtGWs1y-pg==/com.good.vpn-LR3CRvystRj_IPZy4H_Vxg==; Retain data and using new
+2021-01-29 16:37:34.339 1544-1587/? I/PackageManager: Update package com.good.vpn resource path from /data/app/~~0F5T-nUfYiF7o4349Mn2AQ==/com.good.vpn-TGKqx4_izwYAqJc_wQLOBw== to /data/app/~~LM5pS7PfOKm0AtGWs1y-pg==/com.good.vpn-LR3CRvystRj_IPZy4H_Vxg==; Retain data and using new
+2021-01-29 16:37:34.340 1544-1587/? I/AppsFilter: interaction: PackageSetting{c829a10 com.alien.example/10232} -> PackageSetting{5e8d0b9 com.good.vpn/10243} BLOCKED
+2021-01-29 16:37:34.369 613-613/? E/SELinux: avc:  denied  { find } for pid=2321 uid=10208 name=tethering scontext=u:r:grilservice_app:s0:c208,c256,c512,c768 tcontext=u:object_r:tethering_service:s0 tclass=service_manager permissive=0
+2021-01-29 16:37:34.370 613-613/? E/SELinux: avc:  denied  { find } for pid=22607 uid=10227 name=tethering scontext=u:r:permissioncontroller_app:s0:c227,c256,c512,c768 tcontext=u:object_r:tethering_service:s0 tclass=service_manager permissive=0
+2021-01-29 16:37:34.411 16828-16899/? I/WorkerManager: dispose()
+2021-01-29 16:37:34.413 16828-16899/? W/ThreadPoolDumper: Queue length for executor EventBus is now 11. Perhaps some tasks are too long, or the pool is too small.
+2021-01-29 16:37:34.475 940-1043/? D/CHRE: @ 21958.816: [ActivityPlatform] type 4, confidence 45
+2021-01-29 16:37:34.479 1544-1587/? I/AppsFilter: interaction: PackageSetting{c829a10 com.alien.example/10232} -> PackageSetting{a53a8bd com.good.vpn/10243} BLOCKED
+2021-01-29 16:37:34.489 1113-2942/? E/installd: Couldn't opendir /data/app/vmdl782928836.tmp: No such file or directory
+2021-01-29 16:37:34.489 1113-2942/? E/installd: Failed to delete /data/app/vmdl782928836.tmp: No such file or directory
+2021-01-29 16:37:34.492 9518-9520/? I/cmd: oneway function results will be dropped but finished with status OK and parcel size 4
+2021-01-29 16:37:34.493 2977-2977/? I/MediaProvider: Invalidating LocalCallingIdentity cache for package com.good.vpn. Reason: package android.intent.action.PACKAGE_REMOVED
+2021-01-29 16:37:34.494 1544-1878/? I/InputReader: Reconfiguring input devices, changes=KEYBOARD_LAYOUTS | 
+2021-01-29 16:37:34.495 1980-1980/? V/AvrcpMediaPlayerList: mPackageChangedBroadcastReceiver: action: android.intent.action.PACKAGE_REMOVED
+2021-01-29 16:37:34.496 3030-3030/? I/GsaVoiceInteractionSrv: O received Intent { act=android.intent.action.PACKAGE_REMOVED dat=package:com.good.vpn flg=0x4000010 (has extras) }
+2021-01-29 16:37:34.500 17274-17274/? I/Finsky: [2] ycb.d(13): PackageMonitorReceiverImpl - Received: android.intent.action.PACKAGE_REMOVED, [OTxwrNAnZ2uDlC1RAD7u-nuLx8toqQsbEJVO-WcUmSQ]
+2021-01-29 16:37:34.500 17274-17274/? I/Finsky: [2] ydc.g(1): Invalidating cached PackageState for com.good.vpn
+2021-01-29 16:37:34.505 1544-1570/? W/BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.PACKAGE_REMOVED dat=package:com.good.vpn flg=0x4000010 (has extras) } to com.android.vending/com.google.android.finsky.packagemanager.impl.PackageMonitorReceiverImpl$RegisteredReceiver
+2021-01-29 16:37:34.510 17274-17274/? I/Finsky: [2] ouk.d(2): Frosting ID looked up on UI thread. Caller should move to a background thread.
+2021-01-29 16:37:34.512 2977-2977/? I/MediaProvider: Invalidating LocalCallingIdentity cache for package com.good.vpn. Reason: package android.intent.action.PACKAGE_ADDED
+2021-01-29 16:37:34.520 17274-17274/? I/Finsky: [2] qlq.s(2): Installer: package com.good.vpn was removed. replacing: true
+2021-01-29 16:37:34.522 1544-1878/? I/InputReader: Reconfiguring input devices, changes=KEYBOARD_LAYOUTS | 
+2021-01-29 16:37:34.523 17274-17274/? I/Finsky: [2] qmo.L(12): Installer: Notifying status update. package=com.good.vpn, status=UNINSTALLED
+2021-01-29 16:37:34.533 3030-3030/? I/GsaVoiceInteractionSrv: O received Intent { act=android.intent.action.PACKAGE_ADDED dat=package:com.good.vpn flg=0x4000010 (has extras) }
+2021-01-29 16:37:34.533 1980-1980/? V/AvrcpMediaPlayerList: mPackageChangedBroadcastReceiver: action: android.intent.action.PACKAGE_ADDED
+2021-01-29 16:37:34.533 1980-1980/? D/AvrcpMediaPlayerList: Name of package changed: com.good.vpn
+2021-01-29 16:37:34.537 1544-1544/? I/Telecom: DefaultDialerCache: Refreshing default dialer for user 0: now com.google.android.dialer: DDC.oR@Aco
+2021-01-29 16:37:34.540 17274-9194/? I/Finsky: [744] jmd.a(15): [ContentSync] finished, scheduled=false
+2021-01-29 16:37:34.546 17274-9431/? I/Finsky: [749] gvu.a(23): Cancelled 0 ongoing asset module downloads for package com.good.vpn due to a concurrent app update.
+2021-01-29 16:37:34.548 17274-9319/? I/Finsky: [746] otx.run(16): Wrote row to frosting DB: 648
+2021-01-29 16:37:34.552 1544-1570/? W/BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.PACKAGE_REMOVED dat=package:com.good.vpn flg=0x4000010 (has extras) } to com.android.vending/com.google.android.finsky.instantapps.appmanagement.InstantAppRemoveMonitor
+2021-01-29 16:37:34.552 17274-9319/? I/Finsky: [746] otx.run(16): Wrote row to frosting DB: 649
+2021-01-29 16:37:34.557 17274-17274/? I/Finsky: [2] ouk.d(2): Frosting ID looked up on UI thread. Caller should move to a background thread.
+2021-01-29 16:37:34.561 962-1932/? D/AF::TrackHandle: OpPlayAudio: track:55 usage:3 not muted
+2021-01-29 16:37:34.569 613-613/? E/SELinux: avc:  denied  { find } for pid=2321 uid=10208 name=tethering scontext=u:r:grilservice_app:s0:c208,c256,c512,c768 tcontext=u:object_r:tethering_service:s0 tclass=service_manager permissive=0
+2021-01-29 16:37:34.574 1544-1878/? I/InputReader: Reconfiguring input devices, changes=KEYBOARD_LAYOUTS | 
+2021-01-29 16:37:34.574 1544-1564/? D/EventSequenceValidator: IntentStarted during UNKNOWN. Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.good.vpn/cn.demo.appq.activity.VPNActivity }
+    java.lang.Throwable: EventSequenceValidator#getStackTrace
+        at com.google.android.startop.iorap.EventSequenceValidator.logWarningWithStackTrace(EventSequenceValidator.java:260)
+        at com.google.android.startop.iorap.EventSequenceValidator.onIntentStarted(EventSequenceValidator.java:106)
+        at com.android.server.wm.LaunchObserverRegistryImpl.handleOnIntentStarted(LaunchObserverRegistryImpl.java:139)
+        at com.android.server.wm.LaunchObserverRegistryImpl.lambda$veRn_GhgLZLlOHOJ0ZYT6KcfYqo(Unknown Source:0)
+        at com.android.server.wm.-$$Lambda$LaunchObserverRegistryImpl$veRn_GhgLZLlOHOJ0ZYT6KcfYqo.accept(Unknown Source:10)
+        at com.android.internal.util.function.pooled.PooledLambdaImpl.doInvoke(PooledLambdaImpl.java:292)
+        at com.android.internal.util.function.pooled.PooledLambdaImpl.invoke(PooledLambdaImpl.java:201)
+        at com.android.internal.util.function.pooled.OmniFunction.run(OmniFunction.java:97)
+        at android.os.Handler.handleCallback(Handler.java:938)
+        at android.os.Handler.dispatchMessage(Handler.java:99)
+        at android.os.Looper.loop(Looper.java:223)
+        at android.os.HandlerThread.run(HandlerThread.java:67)
+        at com.android.server.ServiceThread.run(ServiceThread.java:44)
+2021-01-29 16:37:34.574 1544-1564/? D/EventSequenceValidator: inc AccIntentStartedEvents to 2
+2021-01-29 16:37:34.574 1544-4566/? I/ActivityTaskManager: START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.good.vpn/cn.demo.appq.activity.VPNActivity} from uid 2000
+2021-01-29 16:37:34.575 17274-17274/? I/Finsky: [2] qmo.O(7): Installer: found apps to install. isMultiUserMode=false, apps=[]
+2021-01-29 16:37:34.578 3030-3030/? I/GsaVoiceInteractionSrv: O received Intent { act=android.intent.action.PACKAGE_REPLACED dat=package:com.good.vpn flg=0x4000010 (has extras) }
+2021-01-29 16:37:34.580 3061-3061/? D/RegisteredNfcFServicesCache: Service unchanged, not updating
+2021-01-29 16:37:34.581 1087-1087/? I/perfetto: ing_service_impl.cc:758 Configured tracing session 229, #sources:1, duration:5000 ms, #buffers:1, total buffer size:4096 KB, total sessions:1, uid:1071 session name: ""
+2021-01-29 16:37:34.581 1086-1086/? I/perfetto: probes_producer.cc:230  Ftrace setup (target_buf=229)
+2021-01-29 16:37:34.582 17274-17274/? I/Finsky: [2] ycb.d(13): PackageMonitorReceiverImpl - Received: android.intent.action.PACKAGE_ADDED, [OTxwrNAnZ2uDlC1RAD7u-nuLx8toqQsbEJVO-WcUmSQ]
+2021-01-29 16:37:34.583 1544-1570/? W/BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.PACKAGE_REMOVED dat=package:com.good.vpn flg=0x4000010 (has extras) } to com.google.android.gms/.games.chimera.GamesSystemBroadcastReceiverProxy
+2021-01-29 16:37:34.583 17274-17274/? I/Finsky: [2] ydc.g(1): Invalidating cached PackageState for com.good.vpn
+2021-01-29 16:37:34.583 1544-1570/? W/BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.PACKAGE_REMOVED dat=package:com.good.vpn flg=0x4000010 (has extras) } to com.google.android.gms/.chimera.GmsIntentOperationService$PersistentTrustedReceiver
+2021-01-29 16:37:34.583 1544-1570/? W/BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.PACKAGE_REMOVED dat=package:com.good.vpn flg=0x4000010 (has extras) } to com.google.android.googlequicksearchbox/com.google.android.apps.gsa.googlequicksearchbox.GelStubAppWatcher
+2021-01-29 16:37:34.584 1544-1570/? W/BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.PACKAGE_ADDED dat=package:com.good.vpn flg=0x4000010 (has extras) } to com.google.android.packageinstaller/com.android.packageinstaller.PackageInstalledReceiver
+2021-01-29 16:37:34.584 1544-1570/? W/BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.PACKAGE_ADDED dat=package:com.good.vpn flg=0x4000010 (has extras) } to com.android.vending/com.google.android.finsky.packagemanager.impl.PackageMonitorReceiverImpl$RegisteredReceiver
+2021-01-29 16:37:34.584 1544-1570/? W/BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.PACKAGE_ADDED dat=package:com.good.vpn flg=0x4000010 (has extras) } to com.google.android.gms/.games.chimera.GamesSystemBroadcastReceiverProxy
+2021-01-29 16:37:34.585 17274-9440/? I/Finsky: [751] rab.C(2): IQ: Notifying installation update. package=com.good.vpn, status=UNINSTALLED
+2021-01-29 16:37:34.585 1544-1570/? W/BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.PACKAGE_ADDED dat=package:com.good.vpn flg=0x4000010 (has extras) } to com.google.android.gms/.gass.chimera.PackageChangeBroadcastReceiver
+2021-01-29 16:37:34.587 1544-1570/? W/BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.PACKAGE_ADDED dat=package:com.good.vpn flg=0x4000010 (has extras) } to com.google.android.gms/.chimera.GmsIntentOperationService$PersistentTrustedReceiver
+2021-01-29 16:37:34.588 1544-1570/? W/BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.PACKAGE_ADDED dat=package:com.good.vpn flg=0x4000010 (has extras) } to com.google.android.googlequicksearchbox/com.google.android.apps.gsa.googlequicksearchbox.GelStubAppWatcher
+2021-01-29 16:37:34.588 1544-1570/? W/BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.PACKAGE_ADDED dat=package:com.good.vpn flg=0x4000010 (has extras) } to com.google.android.ims/.receivers.RcsAutoStartReceiver
+2021-01-29 16:37:34.590 1086-1086/? I/perfetto: ftrace_procfs.cc:176    enabled ftrace
+2021-01-29 16:37:34.595 1544-1544/? V/BackupManagerConstants: getFullBackupIntervalMilliseconds(...) returns 86400000
+2021-01-29 16:37:34.595 1544-1544/? V/BackupManagerConstants: getFullBackupRequiredNetworkType(...) returns 2
+2021-01-29 16:37:34.595 1544-1544/? V/BackupManagerConstants: getFullBackupRequireCharging(...) returns true
+2021-01-29 16:37:34.596 16828-16899/? I/MicroDataManager: isInitializing-false locale not changed-true model not changed-true
+2021-01-29 16:37:34.598 17274-9440/? I/Finsky: [751] rab.t(33): IQ: No matching installs to run for jobs: []
+2021-01-29 16:37:34.599 17274-9319/? I/Finsky: [746] otx.run(16): Wrote row to frosting DB: 650
+2021-01-29 16:37:34.601 16828-16899/? I/MicroDetectionState: Should stop hotword detection immediately - false
+2021-01-29 16:37:34.602 962-1932/? D/AF::TrackHandle: OpPlayAudio: track:55 usage:3 not muted
+2021-01-29 16:37:34.602 17274-17274/? I/Finsky: [2] ouk.d(2): Frosting ID looked up on UI thread. Caller should move to a background thread.
+2021-01-29 16:37:34.605 1544-1564/? D/CompatibilityChangeReporter: Compat change id reported: 135634846; UID 10243; state: DISABLED
+2021-01-29 16:37:34.605 1544-1564/? D/CompatibilityChangeReporter: Compat change id reported: 135754954; UID 10243; state: DISABLED
+2021-01-29 16:37:34.606 1544-1571/? D/CompatibilityChangeReporter: Compat change id reported: 143937733; UID 10243; state: DISABLED
+2021-01-29 16:37:34.606 1544-1564/? D/EventSequenceValidator: onActivityLaunched during UNKNOWN.
+    java.lang.Throwable: EventSequenceValidator#getStackTrace
+        at com.google.android.startop.iorap.EventSequenceValidator.logWarningWithStackTrace(EventSequenceValidator.java:260)
+        at com.google.android.startop.iorap.EventSequenceValidator.onActivityLaunched(EventSequenceValidator.java:149)
+        at com.android.server.wm.LaunchObserverRegistryImpl.handleOnActivityLaunched(LaunchObserverRegistryImpl.java:157)
+        at com.android.server.wm.LaunchObserverRegistryImpl.lambda$UGY1OclnLIQLMEL9B55qjERFf4o(Unknown Source:0)
+        at com.android.server.wm.-$$Lambda$LaunchObserverRegistryImpl$UGY1OclnLIQLMEL9B55qjERFf4o.accept(Unknown Source:10)
+        at com.android.internal.util.function.pooled.PooledLambdaImpl.doInvoke(PooledLambdaImpl.java:292)
+        at com.android.internal.util.function.pooled.PooledLambdaImpl.invoke(PooledLambdaImpl.java:201)
+        at com.android.internal.util.function.pooled.OmniFunction.run(OmniFunction.java:97)
+        at android.os.Handler.handleCallback(Handler.java:938)
+        at android.os.Handler.dispatchMessage(Handler.java:99)
+        at android.os.Looper.loop(Looper.java:223)
+        at android.os.HandlerThread.run(HandlerThread.java:67)
+        at com.android.server.ServiceThread.run(ServiceThread.java:44)
+2021-01-29 16:37:34.609 613-613/? E/SELinux: avc:  denied  { find } for pid=22607 uid=10227 name=tethering scontext=u:r:permissioncontroller_app:s0:c227,c256,c512,c768 tcontext=u:object_r:tethering_service:s0 tclass=service_manager permissive=0
+2021-01-29 16:37:34.612 901-901/? D/Zygote: Forked child process 9537
+2021-01-29 16:37:34.617 17274-17274/? I/Finsky: [2] alxk.a(3): Do not start WearSupportService due to Wear service optimization
+2021-01-29 16:37:34.618 16828-16899/? W/SearchServiceCore: Abort, client detached.
+2021-01-29 16:37:34.625 1544-1571/? I/ActivityManager: Start proc 9537:com.good.vpn/u0a243 for pre-top-activity {com.good.vpn/cn.demo.appq.activity.VPNActivity}
+2021-01-29 16:37:34.618 16828-16899/? W/SearchServiceCore: Abort, client detached.
+2021-01-29 16:37:34.625 17274-9194/? I/Finsky: [744] jmd.a(15): [ContentSync] finished, scheduled=false
+2021-01-29 16:37:34.626 17274-9431/? I/Finsky: [749] gvr.a(15): Asset module broadcast after update successful for package com.good.vpn. 0 sessions broadcast.
+2021-01-29 16:37:34.626 9537-9537/? I/libc: SetHeapTaggingLevel: tag level set to 0
+2021-01-29 16:37:34.627 17274-17274/? I/Finsky: [2] ouk.d(2): Frosting ID looked up on UI thread. Caller should move to a background thread.
+2021-01-29 16:37:34.628 9537-9537/? I/com.good.vpn: Late-enabling -Xcheck:jni
+2021-01-29 16:37:34.632 962-1932/? D/AF::TrackHandle: OpPlayAudio: track:55 usage:3 not muted
+2021-01-29 16:37:34.634 16828-16899/? W/SearchServiceCore: Abort, client detached.
+2021-01-29 16:37:34.634 17274-9319/? I/Finsky: [746] otx.run(16): Wrote row to frosting DB: 651
+2021-01-29 16:37:34.634 17274-17274/? I/Finsky: [2] ycb.d(13): PackageMonitorReceiverImpl - Received: android.intent.action.PACKAGE_ADDED, [OTxwrNAnZ2uDlC1RAD7u-nuLx8toqQsbEJVO-WcUmSQ]
+2021-01-29 16:37:34.635 17274-17274/? I/Finsky: [2] ydc.g(1): Invalidating cached PackageState for com.good.vpn
+2021-01-29 16:37:34.641 9537-9537/? I/com.good.vpn: Unquickening 12 vdex files!
+2021-01-29 16:37:34.645 1224-1334/? I/adbd: jdwp connection from 9537
+2021-01-29 16:37:34.646 17274-17274/? I/Finsky: [2] ouk.d(2): Frosting ID looked up on UI thread. Caller should move to a background thread.
+2021-01-29 16:37:34.648 962-1932/? D/AF::TrackHandle: OpPlayAudio: track:55 usage:3 not muted
+2021-01-29 16:37:34.653 17274-17274/? I/Finsky: [2] ycb.d(16): PackageMonitorReceiverImpl - Deduping intent android.intent.action.PACKAGE_ADDED
+2021-01-29 16:37:34.658 17880-9568/? I/Fitness: FitCleanupIntentOperation received Intent android.intent.action.PACKAGE_REMOVED [CONTEXT service_id=17 ]
+2021-01-29 16:37:34.659 17274-17274/? I/Finsky: [2] ycb.d(13): PackageMonitorReceiverImpl - Received: android.intent.action.PACKAGE_ADDED, [OTxwrNAnZ2uDlC1RAD7u-nuLx8toqQsbEJVO-WcUmSQ]
+2021-01-29 16:37:34.659 17274-17274/? I/Finsky: [2] ydc.g(1): Invalidating cached PackageState for com.good.vpn
+2021-01-29 16:37:34.662 17274-9319/? I/Finsky: [746] otx.run(16): Wrote row to frosting DB: 652
+2021-01-29 16:37:34.665 17274-17274/? I/Finsky: [2] ouk.d(2): Frosting ID looked up on UI thread. Caller should move to a background thread.
+2021-01-29 16:37:34.666 17274-9319/? I/Finsky: [746] otx.run(16): Wrote row to frosting DB: 653
+2021-01-29 16:37:34.667 962-1932/? D/AF::TrackHandle: OpPlayAudio: track:55 usage:3 not muted
+2021-01-29 16:37:34.669 17899-9564/? I/Auth: [SupervisedAccountIntentOperation] onHandleIntent(): android.intent.action.PACKAGE_ADDED
+2021-01-29 16:37:34.670 2409-2409/? E/PhoneInterfaceManager: [PhoneIntfMgr] getCarrierPackageNamesForIntentAndPhone: No UICC
+2021-01-29 16:37:34.670 17899-9564/? I/ChromeSync: [Sync,SyncIntentOperation] Handling the intent: Intent { act=android.intent.action.PACKAGE_ADDED dat=package:com.good.vpn flg=0x4000010 pkg=com.google.android.gms cmp=com.google.android.gms/.chimera.GmsIntentOperationService (has extras) }.
+2021-01-29 16:37:34.670 2409-2409/? D/CarrierSvcBindHelper: No carrier app for: 0
+2021-01-29 16:37:34.671 2409-2409/? E/PhoneInterfaceManager: [PhoneIntfMgr] getCarrierPackageNamesForIntentAndPhone: No UICC
+2021-01-29 16:37:34.671 2409-2409/? D/CarrierSvcBindHelper: No carrier app for: 0
+2021-01-29 16:37:34.671 5581-7112/? I/ProvidersCache: Provider returned no roots. Possibly naughty: com.google.android.apps.docs.storage
+2021-01-29 16:37:34.672 2722-9393/? I/EuiccGoogle: [553] EuiccServiceImpl.onGetEuiccProfileInfoList: onGetEuiccProfileInfoList: slotId = -1
+2021-01-29 16:37:34.672 17274-17274/? I/Finsky: [2] ycb.d(16): PackageMonitorReceiverImpl - Deduping intent android.intent.action.PACKAGE_ADDED
+2021-01-29 16:37:34.675 962-1932/? D/AF::TrackHandle: OpPlayAudio: track:55 usage:3 not muted
+2021-01-29 16:37:34.677 2722-9393/? W/EuiccGoogle: [553] EuiccServiceImpl.onGetEuiccProfileInfoList: slotId=-1. No eUICC is active. Return null.
+2021-01-29 16:37:34.678 9537-9537/com.good.vpn D/ApplicationLoaders: Returning zygote-cached class loader: /system/framework/android.test.base.jar
+2021-01-29 16:37:34.679 2722-9466/? I/EuiccGoogle: [554] EuiccServiceImpl.onGetEuiccProfileInfoList: onGetEuiccProfileInfoList: slotId = -1
+2021-01-29 16:37:34.681 2409-2409/? E/VvmPkgInstalledRcvr: cannot create TelephonyManager from ComponentInfo{com.android.phone/com.android.services.telephony.TelephonyConnectionService}, ***, UserHandle{0}
+2021-01-29 16:37:34.685 2722-9466/? W/EuiccGoogle: [554] EuiccServiceImpl.onGetEuiccProfileInfoList: slotId=-1. No eUICC is active. Return null.
+2021-01-29 16:37:34.685 2119-2119/? I/WallpaperService: engine resumed
+2021-01-29 16:37:34.689 940-940/? I/sensors-hal: [hal]batch_physical_sensor:279, android.sensor.gyroscope/41, period=20000000, max_latency=0
+2021-01-29 16:37:34.689 940-940/? I/sensors-hal: [hal]batch_physical_sensor:288, android.sensor.gyroscope/41, period=20000000, max_latency=0 request completed
+2021-01-29 16:37:34.689 940-940/? I/sensors-hal: [hal]activate_physical_sensor:216, android.sensor.gyroscope/41 en=1
+2021-01-29 16:37:34.689 1544-2490/? W/BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.PACKAGE_REPLACED dat=package:com.good.vpn flg=0x4000010 (has extras) } to com.google.android.gms/.gass.chimera.PackageChangeBroadcastReceiver
+2021-01-29 16:37:34.690 940-940/? I/sensors-hal: [ssc_utils]get_qmi_debug_flag:232, support_qmi_debug : false
+2021-01-29 16:37:34.690 1544-1570/? W/BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.PACKAGE_REPLACED dat=package:com.good.vpn flg=0x4000010 (has extras) } to com.google.android.gms/.chimera.GmsIntentOperationService$PersistentTrustedReceiver
+2021-01-29 16:37:34.690 1544-1570/? W/BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.PACKAGE_REPLACED dat=package:com.good.vpn flg=0x4000010 (has extras) } to com.google.android.googlequicksearchbox/com.google.android.apps.gsa.googlequicksearchbox.GelStubAppWatcher
+2021-01-29 16:37:34.690 1544-1570/? W/BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.PACKAGE_REPLACED dat=package:com.good.vpn flg=0x4000010 (has extras) } to com.google.android.ims/.receivers.RcsAutoStartReceiver
+2021-01-29 16:37:34.691 2409-2409/? D/ImsResolver: maybeAddedImsService, packageName: com.good.vpn
+2021-01-29 16:37:34.693 661-733/? W/HWComposer: Ignoring duplicate VSYNC event from HWC for display 19260504575090817 (t=21705750007000)
+2021-01-29 16:37:34.695 5581-9521/? I/ProvidersCache: Provider returned no roots. Possibly naughty: com.google.android.apps.docs.storage
+2021-01-29 16:37:34.692 940-940/? W/sensors@2.0-ser: type=1400 audit(0.0:653): avc: denied { read write } for name="diag" dev="tmpfs" ino=1486 scontext=u:r:hal_sensors_default:s0 tcontext=u:object_r:diag_device:s0 tclass=chr_file permissive=0
+2021-01-29 16:37:34.697 940-940/? D/Diag_Lib:  Diag_LSM_Init: Failed to open handle to diag driver, error = 13
+2021-01-29 16:37:34.697 940-940/? D/Diag_Lib:  Diag_LSM_Init: Failed to open handle to diag driver, error = 13
+2021-01-29 16:37:34.697 940-940/? I/sensors-hal: [ssc_sensor]update_handle:467, handle=331, type=33, wakeup=0, hwid=0, base=331
+2021-01-29 16:37:34.698 940-940/? I/sensors-hal: [ssc_utils]get_qmi_debug_flag:232, support_qmi_debug : false
+2021-01-29 16:37:34.692 940-940/? W/sensors@2.0-ser: type=1400 audit(0.0:654): avc: denied { read write } for name="diag" dev="tmpfs" ino=1486 scontext=u:r:hal_sensors_default:s0 tcontext=u:object_r:diag_device:s0 tclass=chr_file permissive=0
+2021-01-29 16:37:34.702 940-940/? I/sensors-hal: [ssc_utils]get_qmi_debug_flag:232, support_qmi_debug : false
+2021-01-29 16:37:34.707 2409-2409/? D/CarrierConfigLoader: mHandler: 9 phoneId: 0
+2021-01-29 16:37:34.707 17880-9577/? I/FontLog: Package com.good.vpn has no metadata [CONTEXT service_id=132 ]
+2021-01-29 16:37:34.708 962-1932/? D/AF::TrackHandle: OpPlayAudio: track:55 usage:3 not muted
+2021-01-29 16:37:34.712 661-733/? W/HWComposer: Ignoring duplicate VSYNC event from HWC for display 19260504575090817 (t=21705766742000)
+2021-01-29 16:37:34.714 940-940/? I/sensors-hal: [hal]activate_physical_sensor:227, android.sensor.gyroscope/41 en=1 completed
+2021-01-29 16:37:34.721 661-733/? W/HWComposer: Ignoring duplicate VSYNC event from HWC for display 19260504575090817 (t=21705777882000)
+2021-01-29 16:37:34.725 17899-17915/? I/gle.android.gm: Background concurrent copying GC freed 109910(6173KB) AllocSpace objects, 31(1304KB) LOS objects, 75% free, 10MB/42MB, paused 41us total 239.840ms
+2021-01-29 16:37:34.731 2606-2606/? D/Oslo.OsloMetrics: log flick echo client com.breel.wallpapers19.view.controller.OsloController gesture 2 register true
+2021-01-29 16:37:34.731 2606-2606/? D/Oslo.OsloMetrics: Register 123 timestamp 21895241
+2021-01-29 16:37:34.736 17899-17899/? D/BoundBrokerSvc: onBind: Intent { act=com.google.android.gms.common.BIND_SHARED_PREFS pkg=com.google.android.gms }
+2021-01-29 16:37:34.736 17899-17899/? D/BoundBrokerSvc: Loading bound service for intent: Intent { act=com.google.android.gms.common.BIND_SHARED_PREFS pkg=com.google.android.gms }
+2021-01-29 16:37:34.736 2606-2606/? D/Oslo.OsloMetrics: log reach echo client com.breel.wallpapers19.view.controller.OsloController gesture 5 register true
+2021-01-29 16:37:34.736 2606-2606/? D/Oslo.OsloMetrics: Register 123 timestamp 21895246
+2021-01-29 16:37:34.739 2606-2606/? D/Oslo.OsloMetrics: log flick client com.breel.wallpapers19.view.controller.OsloController gesture 1 register true
+2021-01-29 16:37:34.739 2606-2606/? D/Oslo.OsloMetrics: Register 123 timestamp 21895248
+2021-01-29 16:37:34.741 17899-9536/? W/SQLiteLog: (28) double-quoted string literal: "com.good.vpn"
+2021-01-29 16:37:34.743 2606-2606/? D/Oslo.OsloMetrics: log reach client com.breel.wallpapers19.view.controller.OsloController gesture 4 register true
+2021-01-29 16:37:34.743 2606-2606/? D/Oslo.OsloMetrics: Register 123 timestamp 21895252
+2021-01-29 16:37:34.743 962-1932/? D/AF::TrackHandle: OpPlayAudio: track:55 usage:3 not muted
+2021-01-29 16:37:34.745 2119-2119/? I/WallpaperService: engine paused
+2021-01-29 16:37:34.745 940-940/? I/sensors-hal: [hal]activate_physical_sensor:216, android.sensor.gyroscope/41 en=0
+2021-01-29 16:37:34.748 940-940/? I/sensors-hal: [hal]activate_physical_sensor:227, android.sensor.gyroscope/41 en=0 completed
+2021-01-29 16:37:34.760 2606-2606/? D/Oslo.OsloMetrics: log flick echo client com.breel.wallpapers19.view.controller.OsloController gesture 2 register false
+2021-01-29 16:37:34.760 2606-2606/? D/Oslo.OsloMetrics: Unregister, registered count 123 unregistered count 123 timestamp 21895270 elapsed duration 29
+2021-01-29 16:37:34.765 17899-17899/? D/BoundBrokerSvc: onUnbind: Intent { act=com.google.android.gms.common.BIND_SHARED_PREFS pkg=com.google.android.gms }
+2021-01-29 16:37:34.766 2606-2606/? D/Oslo.OsloMetrics: log reach echo client com.breel.wallpapers19.view.controller.OsloController gesture 5 register false
+2021-01-29 16:37:34.766 2606-2606/? D/Oslo.OsloMetrics: Unregister, registered count 123 unregistered count 123 timestamp 21895276 elapsed duration 30
+2021-01-29 16:37:34.767 2606-2606/? D/Oslo.OsloMetrics: log flick client com.breel.wallpapers19.view.controller.OsloController gesture 1 register false
+2021-01-29 16:37:34.767 2606-2606/? D/Oslo.OsloMetrics: Unregister, registered count 123 unregistered count 123 timestamp 21895276 elapsed duration 28
+2021-01-29 16:37:34.767 962-1932/? D/AF::TrackHandle: OpPlayAudio: track:55 usage:3 not muted
+2021-01-29 16:37:34.770 613-613/? E/SELinux: avc:  denied  { find } for pid=2321 uid=10208 name=tethering scontext=u:r:grilservice_app:s0:c208,c256,c512,c768 tcontext=u:object_r:tethering_service:s0 tclass=service_manager permissive=0
+2021-01-29 16:37:34.771 2606-2606/? D/Oslo.OsloMetrics: log reach client com.breel.wallpapers19.view.controller.OsloController gesture 4 register false
+2021-01-29 16:37:34.771 2606-2606/? D/Oslo.OsloMetrics: Unregister, registered count 123 unregistered count 123 timestamp 21895280 elapsed duration 28
+2021-01-29 16:37:34.775 17899-5137/? I/Icing: IndexChimeraService.getServiceInterface callingPackage=com.google.android.gms componentName=AppsCorpus serviceId=36
+2021-01-29 16:37:34.789 17899-812/? W/Icing: No valid account for uploading user actions
+2021-01-29 16:37:34.792 962-1932/? D/AF::TrackHandle: OpPlayAudio: track:55 usage:3 not muted
+2021-01-29 16:37:34.799 1544-1561/? W/Looper: Slow delivery took 209ms android.fg h=android.os.Handler c=<recycled PooledLambda@b8f1a9> m=0
+2021-01-29 16:37:34.799 17899-5137/? I/Icing: IndexChimeraService.getServiceInterface callingPackage=com.google.android.gms componentName=null serviceId=30
+2021-01-29 16:37:34.801 9537-9537/com.good.vpn D/NetworkSecurityConfig: No Network Security Config specified, using platform default
+2021-01-29 16:37:34.802 962-1932/? D/AF::TrackHandle: OpPlayAudio: track:55 usage:3 not muted
+2021-01-29 16:37:34.802 9537-9537/com.good.vpn D/NetworkSecurityConfig: No Network Security Config specified, using platform default
+2021-01-29 16:37:34.812 1544-1553/? I/system_server: Background concurrent copying GC freed 446684(21MB) AllocSpace objects, 43(3220KB) LOS objects, 75% free, 27MB/109MB, paused 379us total 322.728ms
+2021-01-29 16:37:34.813 962-1932/? D/AF::TrackHandle: OpPlayAudio: track:55 usage:3 not muted
+2021-01-29 16:37:34.815 613-613/? E/SELinux: avc:  denied  { find } for pid=22607 uid=10227 name=tethering scontext=u:r:permissioncontroller_app:s0:c227,c256,c512,c768 tcontext=u:object_r:tethering_service:s0 tclass=service_manager permissive=0
+2021-01-29 16:37:34.815 1544-1555/? W/System: A resource failed to call release. 
+2021-01-29 16:37:34.817 962-1932/? D/AF::TrackHandle: OpPlayAudio: track:55 usage:3 not muted
+2021-01-29 16:37:34.817 1544-1555/? W/System: A resource failed to call release. 
+2021-01-29 16:37:34.817 1544-1555/? W/System: A resource failed to call release. 
+2021-01-29 16:37:34.829 962-1932/? D/AF::TrackHandle: OpPlayAudio: track:55 usage:3 not muted
+2021-01-29 16:37:34.834 9537-9537/com.good.vpn D/DebugDB: Open http://192.168.6.157:8080 in your browser
+2021-01-29 16:37:34.839 962-1932/? D/AF::TrackHandle: OpPlayAudio: track:55 usage:3 not muted
+2021-01-29 16:37:34.839 661-2189/? W/DisplayIdentification: Invalid EDID: falling back to serial number due to missing display name.
+2021-01-29 16:37:34.839 661-2189/? W/DisplayIdentification: Invalid EDID: falling back to ASCII text due to missing serial number.
+2021-01-29 16:37:34.853 17899-812/? I/Icing: Usage reports ok 2, Failed Usage reports 0, indexed 0, rejected 0
+2021-01-29 16:37:34.855 17899-812/? W/Icing: No valid account for uploading user actions
+2021-01-29 16:37:34.863 17899-812/? I/Icing: Usage reports ok 0, Failed Usage reports 0, indexed 0, rejected 0
+2021-01-29 16:37:34.864 17899-812/? I/Icing: Indexing com.google.android.gms-internal.3p:MobileApplication from com.google.android.gms using seqno 196
+2021-01-29 16:37:34.865 17899-812/? I/Icing: Indexing com.google.android.gms-internal.3p:MobileApplication from com.google.android.gms using seqno 196
+2021-01-29 16:37:34.870 17899-812/? I/Icing: Indexing com.google.android.gms-apps from com.google.android.gms
+2021-01-29 16:37:34.878 9537-9537/com.good.vpn I/UtilsActivityLifecycle: setAnimatorsEnabled: Animators are enabled now!
+2021-01-29 16:37:34.913 17899-812/? I/Icing: Indexing done com.google.android.gms-apps
+2021-01-29 16:37:34.914 17899-812/? I/Icing: Indexing com.google.android.gms-apps from com.google.android.gms
+2021-01-29 16:37:34.914 17899-812/? I/Icing: Indexing done com.google.android.gms-apps
+2021-01-29 16:37:34.963 22607-23749/? I/PermissionControllerServiceImpl: Updating user sensitive for uid 10243
+2021-01-29 16:37:34.970 613-613/? E/SELinux: avc:  denied  { find } for pid=2321 uid=10208 name=tethering scontext=u:r:grilservice_app:s0:c208,c256,c512,c768 tcontext=u:object_r:tethering_service:s0 tclass=service_manager permissive=0
+2021-01-29 16:37:34.977 1544-1561/? W/Looper: Drained
+2021-01-29 16:37:34.980 1544-2080/? I/ActivityTaskManager: START u0 {flg=0x10000000 cmp=com.good.vpn/com.github.megatronking.netbare.ssl.CertificateInstallActivity (has extras)} from uid 10243
+2021-01-29 16:37:34.982 1544-2080/? D/Vpn: setting state=DISCONNECTED, reason=agentDisconnect
+2021-01-29 16:37:34.985 1544-2080/? I/Vpn: Switched from com.v2ray.ang to com.good.vpn
+2021-01-29 16:37:34.986 1544-2080/? D/Vpn: setting state=IDLE, reason=prepare
+2021-01-29 16:37:34.986 1544-1916/? D/ConnectivityService: [103 WIFI|VPN] EVENT_NETWORK_INFO_CHANGED, going from CONNECTED to DISCONNECTED
+2021-01-29 16:37:34.987 8601-8622/com.v2ray.ang I/GoLog: EscortingDown() Killing all escorted process 
+2021-01-29 16:37:34.988 17880-9069/? V/NativeCrypto: Read error: ssl=0xb400007d901585d8: I/O error during system call, Software caused connection abort
+2021-01-29 16:37:34.988 17899-6444/? V/NativeCrypto: Read error: ssl=0xb400007d90160498: I/O error during system call, Software caused connection abort
+2021-01-29 16:37:34.989 2163-9380/? D/NetworkMonitor/100: PROBE_FALLBACK http://play.googleapis.com/generate_204 Probe failed with exception java.net.ConnectException: Failed to connect to play.googleapis.com/172.217.24.10:80
+2021-01-29 16:37:34.989 17880-9069/? V/NativeCrypto: SSL shutdown failed: ssl=0xb400007d901585d8: I/O error during system call, Broken pipe
+2021-01-29 16:37:34.989 8601-8843/com.v2ray.ang I/GoLog: EscortRun cmd.Wait err: signal: killed
+2021-01-29 16:37:34.989 8601-8843/com.v2ray.ang I/GoLog: EscortRun Exit
+2021-01-29 16:37:34.989 17880-9069/? E/WakeLock: GCM_HB_ALARM release without a matched acquire!
+2021-01-29 16:37:34.989 17880-9069/? W/WakeLock: GCM_HB_ALARM counter does not exist
+2021-01-29 16:37:34.991 1544-1916/? D/ConnectivityService: [103 WIFI|VPN] disconnected, was satisfying 28
+2021-01-29 16:37:34.992 17899-812/? V/NativeCrypto: Write error: ssl=0xb400007d90160498: I/O error during system call, Broken pipe
+2021-01-29 16:37:34.992 17899-812/? V/NativeCrypto: SSL shutdown failed: ssl=0xb400007d90160498: I/O error during system call, Success
+2021-01-29 16:37:34.993 8601-8622/com.v2ray.ang I/GoLog: EscortingDown pr.Wait err: waitid: no child processes
+2021-01-29 16:37:34.993 8601-8622/com.v2ray.ang D/ConnectivityManager: NetworkCallback was already unregistered
+2021-01-29 16:37:34.994 1544-1561/? I/EthernetTracker: interfaceLinkStateChanged, iface: tun0, up: false
+2021-01-29 16:37:34.994 1544-1570/? W/BroadcastQueue: Background execution not allowed: receiving Intent { act=android.net.conn.NETWORK_CONDITIONS_MEASURED flg=0x10 (has extras) } to com.google.android.gms/.chimera.GmsIntentOperationService$PersistentTrustedReceiver
+2021-01-29 16:37:34.996 1544-7864/? W/ActivityTaskManager: Tried to set launchTime (0) < mLastActivityLaunchTime (21705714)
+2021-01-29 16:37:34.997 2163-9380/? D/NetworkMonitor/100: isCaptivePortal: isSuccessful()=false isPortal()=false RedirectUrl=null isPartialConnectivity()=true Time=12912ms
+2021-01-29 16:37:34.999 1544-1561/? I/GnssNetworkConnectivityHandler: Network connection lost. Available networks count: 0
+2021-01-29 16:37:35.001 1544-1561/? I/GnssNetworkConnectivityHandler: updateNetworkState, state=CLOSED, connected=false, network=103, capabilities=[ Transports: WIFI|VPN Capabilities: NOT_METERED&INTERNET&NOT_RESTRICTED&TRUSTED&VALIDATED&NOT_ROAMING&FOREGROUND&NOT_CONGESTED&NOT_SUSPENDED LinkUpBandwidth>=46505Kbps LinkDnBandwidth>=48953Kbps Uids: <{0-99999}> AdministratorUids: [] RequestorUid: -1 RequestorPackageName: null], apn: null, availableNetworkCount: 0
+2021-01-29 16:37:35.009 2409-2627/? E/PhoneInterfaceManager: [PhoneIntfMgr] getCarrierPrivilegeStatus: Invalid subId
+2021-01-29 16:37:35.012 4224-4309/? I/CarrierServices: [304] dji.a: FiST: Wifi connectivity status true
+2021-01-29 16:37:35.013 4224-4441/? I/CarrierServices: [325] drv.a: (PEv2-SM): DisabledState: event Connectivity event
+2021-01-29 16:37:35.014 1544-1916/? D/ConnectivityService: Sending DISCONNECTED broadcast for type 17 [103 WIFI|VPN] isDefaultNetwork=false
+2021-01-29 16:37:35.016 613-613/? E/SELinux: avc:  denied  { find } for pid=22607 uid=10227 name=tethering scontext=u:r:permissioncontroller_app:s0:c227,c256,c512,c768 tcontext=u:object_r:tethering_service:s0 tclass=service_manager permissive=0
+2021-01-29 16:37:35.019 8001-8001/? I/DeviceStatusMonitor: DeviceStatusMonitor$1.onReceive():51 onReceive() : Action = android.net.conn.CONNECTIVITY_CHANGE
+2021-01-29 16:37:35.020 17880-18036/? I/NearbyDiscovery: FastPairHandler: Received action android.net.conn.CONNECTIVITY_CHANGE [CONTEXT service_id=49 ]
+2021-01-29 16:37:35.023 2409-2717/? E/PhoneInterfaceManager: [PhoneIntfMgr] getCarrierPrivilegeStatus: Invalid subId
+2021-01-29 16:37:35.024 4224-4309/? I/CarrierServices: [304] djm.d: Connected state: [1], networkType: [WIFI]
+2021-01-29 16:37:35.024 17274-17274/? I/Finsky: [2] qmo.O(7): Installer: found apps to install. isMultiUserMode=false, apps=[]
+2021-01-29 16:37:35.025 8601-8601/com.v2ray.ang D/ConnectivityManager: NetworkCallback was already unregistered
+2021-01-29 16:37:35.026 8001-8001/? I/DeviceStatusMonitor: DeviceStatusMonitor.notifyIfNetworkChanged():148 notifyIfNetworkChanged: newState = NON_METERED, airplaneModeOn = false, notifyAnyway = false
+2021-01-29 16:37:35.028 9537-9601/com.good.vpn I/AdrenoGLES-0: QUALCOMM build                   : 0905e9f, Ia11ce2d146
+    Build Date                       : 09/02/20
+    OpenGL ES Shader Compiler Version: EV031.31.04.00
+    Local Branch                     : gfx-adreno.lnx.2.0
+    Remote Branch                    : 
+    Remote Branch                    : 
+    Reconstruct Branch               : 
+2021-01-29 16:37:35.028 9537-9601/com.good.vpn I/AdrenoGLES-0: Build Config                     : S P 10.0.4 AArch64
+2021-01-29 16:37:35.028 9537-9601/com.good.vpn I/AdrenoGLES-0: Driver Path                      : /vendor/lib64/egl/libGLESv2_adreno.so
+2021-01-29 16:37:35.030 17880-9592/? W/ctxmgr: [NetworkStateProducer] No state change for network connection context [CONTEXT service_id=47 ]
+2021-01-29 16:37:35.031 1544-1916/? D/ConnectivityService: NetReassign [200 : null → 100, 125 : null → 100, 210 : null → 100, 114 : null → 100, 9 : null → 100, 14 : null → 100, 25 : null → 100, 202 : null → 100, 26 : null → 100, 135 : null → 100, 24 : null → 100, 10 : null → 100, 110 : null → 100, 13 : null → 100, 198 : null → 100]
+2021-01-29 16:37:35.031 1544-1953/? D/EthernetNetworkFactory: updateCapabilityFilter: [ AdministratorUids: [] RequestorUid: -1 RequestorPackageName: null]
+2021-01-29 16:37:35.031 925-925/? V/ContextHubHal: sendMessageToHub
+2021-01-29 16:37:35.032 940-1043/? D/CHRE: @ 21959.373: Parsed nanoapp message from host: app ID 0x476f6f676c00100b, endpoint 0xc, msgType 112, payload size 14
+2021-01-29 16:37:35.032 940-1043/? I/CHRE: @ 21959.373: [NanoMinion] received MSG Type 0x70, Version 1, 10 bytes
+2021-01-29 16:37:35.032 940-1043/? I/CHRE: @ 21959.373: [AR] context-signal: has_bt=0, bt=0, has_wifi=1, wifi=1
+2021-01-29 16:37:35.037 9537-9601/com.good.vpn I/AdrenoGLES-0: PFP: 0x016ee189, ME: 0x00000000
+2021-01-29 16:37:35.038 1544-2162/? D/NetworkTimeUpdateService: New default network 100; checking time.
+2021-01-29 16:37:35.038 8601-8601/com.v2ray.ang D/com.v2ray.ang: java.lang.IllegalArgumentException: Receiver not registered: com.v2ray.ang.service.V2RayServiceManager$ReceiveMessageHandler@c2047ef
+2021-01-29 16:37:35.040 2394-4523/? D/QCNEJ/DefaultNetworkInfoRelay: Default network available: 100
+2021-01-29 16:37:35.040 9537-9601/com.good.vpn W/AdrenoUtils: <ReadGpuID_from_sysfs:197>: Failed to open /sys/class/kgsl/kgsl-3d0/gpu_model
+2021-01-29 16:37:35.040 9537-9601/com.good.vpn W/AdrenoUtils: <ReadGpuID:221>: Failed to read chip ID from gpu_model. Fallback to use the GSL path
+2021-01-29 16:37:35.041 2394-4523/? D/QCNEJ/NativeHalConnector: -> SND notifyDefaultNetworkChanged(1)
+2021-01-29 16:37:35.042 17880-9607/? I/NetworkManagementSocketTagger: tagSocketFd(-1, 805307399, -1) failed with errno-9
+2021-01-29 16:37:35.043 2409-2477/? E/PhoneInterfaceManager: [PhoneIntfMgr] getCarrierPrivilegeStatus: Invalid subId
+2021-01-29 16:37:35.045 4224-4309/? I/CarrierServices: [304] dji.a: FiST: Wifi connectivity status true
+2021-01-29 16:37:35.045 4224-4441/? I/CarrierServices: [325] drv.a: (PEv2-SM): DisabledState: event Connectivity event
+2021-01-29 16:37:35.047 1544-1916/? D/ProxyTracker: sending Proxy Broadcast for [] 0 xl=
+2021-01-29 16:37:35.047 4224-4309/? I/CarrierServices: [304] djm.d: Connected state: [1], networkType: [WIFI]
+2021-01-29 16:37:35.047 1544-1916/? D/ConnectivityService: releasing NetworkRequest [ REQUEST id=196, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED&NOT_VPN Uid: 10242 AdministratorUids: [] RequestorUid: 10242 RequestorPackageName: com.v2ray.ang] ] (release request)
+2021-01-29 16:37:35.051 8357-8373/? I/TetheringManager: registerTetheringEventCallback:com.google.android.apps.carrier.carrierwifi
+2021-01-29 16:37:35.052 4412-6734/? I/TetheringManager: registerTetheringEventCallback:com.android.keychain
+2021-01-29 16:37:35.053 9537-9572/com.good.vpn I/TetheringManager: registerTetheringEventCallback:com.good.vpn
+2021-01-29 16:37:35.054 1544-1916/? D/VPN: NetworkAgent: NetworkAgent channel lost
+2021-01-29 16:37:35.054 1544-1916/? D/ConnectivityService: [100 WIFI] validation failed
+2021-01-29 16:37:35.054 7708-7725/? I/TetheringManager: registerTetheringEventCallback:com.android.providers.calendar
+2021-01-29 16:37:35.055 8963-9468/? I/TetheringManager: registerTetheringEventCallback:com.google.android.gsf
+2021-01-29 16:37:35.055 5677-5696/? I/TetheringManager: registerTetheringEventCallback:com.android.externalstorage
+2021-01-29 16:37:35.056 7880-8519/? I/TetheringManager: registerTetheringEventCallback:com.google.android.partnersetup
+2021-01-29 16:37:35.057 5581-6960/? I/TetheringManager: registerTetheringEventCallback:com.google.android.documentsui
+2021-01-29 16:37:35.057 4157-4176/? I/TetheringManager: registerTetheringEventCallback:com.android.vpndialogs
+2021-01-29 16:37:35.057 614-614/? I/hwservicemanager: getTransport: Cannot find entry android.hardware.graphics.mapper@4.0::IMapper/default in either framework or device manifest.
+2021-01-29 16:37:35.057 9537-9601/com.good.vpn I/Gralloc4: mapper 4.x is not supported
+2021-01-29 16:37:35.058 4734-5531/? I/TetheringManager: registerTetheringEventCallback:com.google.android.gms
+2021-01-29 16:37:35.059 7390-7633/? I/TetheringManager: registerTetheringEventCallback:com.android.providers.contacts
+2021-01-29 16:37:35.060 6678-6696/? I/TetheringManager: registerTetheringEventCallback:com.google.android.GoogleCamera
+2021-01-29 16:37:35.061 4208-4231/? I/TetheringManager: registerTetheringEventCallback:com.android.certinstaller
+2021-01-29 16:37:35.062 2409-2477/? E/PhoneInterfaceManager: [PhoneIntfMgr] getCarrierPrivilegeStatus: Invalid subId
+2021-01-29 16:37:35.065 8071-8091/com.v2ray.ang I/TetheringManager: registerTetheringEventCallback:com.v2ray.ang
+2021-01-29 16:37:35.067 7431-7449/? I/TetheringManager: registerTetheringEventCallback:com.google.android.contacts
+2021-01-29 16:37:35.068 2409-2477/? E/PhoneInterfaceManager: [PhoneIntfMgr] getCarrierPrivilegeStatus: Invalid subId
+2021-01-29 16:37:35.069 4224-4309/? I/CarrierServices: [304] dji.a: FiST: Wifi connectivity status true
+2021-01-29 16:37:35.070 4224-4441/? I/CarrierServices: [325] drv.a: (PEv2-SM): DisabledState: event Connectivity event
+2021-01-29 16:37:35.071 4224-4309/? I/CarrierServices: [304] djm.d: Connected state: [1], networkType: [WIFI]
+2021-01-29 16:37:35.073 8601-8622/com.v2ray.ang D/com.v2ray.ang: java.lang.IllegalArgumentException: Receiver not registered: com.v2ray.ang.service.V2RayServiceManager$ReceiveMessageHandler@c2047ef
+2021-01-29 16:37:35.079 2409-2477/? E/PhoneInterfaceManager: [PhoneIntfMgr] getCarrierPrivilegeStatus: Invalid subId
+2021-01-29 16:37:35.094 1544-2490/? I/ActivityTaskManager: START u0 {act=android.credentials.INSTALL cmp=com.android.certinstaller/.CertInstallerMain (has extras)} from uid 10243
+2021-01-29 16:37:35.171 613-613/? E/SELinux: avc:  denied  { find } for pid=2321 uid=10208 name=tethering scontext=u:r:grilservice_app:s0:c208,c256,c512,c768 tcontext=u:object_r:tethering_service:s0 tclass=service_manager permissive=0
+2021-01-29 16:37:35.171 1544-2851/? W/ActivityTaskManager: Tried to set launchTime (0) < mLastActivityLaunchTime (21640682)
+2021-01-29 16:37:35.203 1544-2851/? I/ActivityTaskManager: START u0 {cmp=com.android.certinstaller/.CertInstaller (has extras)} from uid 10108
+2021-01-29 16:37:35.211 1544-8275/? W/ActivityTaskManager: Tried to set launchTime (0) < mLastActivityLaunchTime (21706228)
+2021-01-29 16:37:35.216 613-613/? E/SELinux: avc:  denied  { find } for pid=22607 uid=10227 name=tethering scontext=u:r:permissioncontroller_app:s0:c227,c256,c512,c768 tcontext=u:object_r:tethering_service:s0 tclass=service_manager permissive=0
+2021-01-29 16:37:35.224 4208-4208/? D/CredentialHelper: # extras: 2
+2021-01-29 16:37:35.224 4208-4208/? D/CredentialHelper:    CERT: 1241
+2021-01-29 16:37:35.224 4208-4208/? W/Bundle: Key jks_alias expected byte[] but value was a java.lang.String.  The default value <null> was returned.
+2021-01-29 16:37:35.237 4208-4208/? W/Bundle: Attempt to cast generated internal exception:
+    java.lang.ClassCastException: java.lang.String cannot be cast to byte[]
+        at android.os.BaseBundle.getByteArray(BaseBundle.java:1389)
+        at android.os.Bundle.getByteArray(Bundle.java:1159)
+        at com.android.certinstaller.CredentialHelper.<init>(CredentialHelper.java:118)
+        at com.android.certinstaller.CertInstaller.createCredentialHelper(CertInstaller.java:76)
+        at com.android.certinstaller.CertInstaller.onCreate(CertInstaller.java:89)
+        at android.app.Activity.performCreate(Activity.java:8000)
+        at android.app.Activity.performCreate(Activity.java:7984)
+        at android.app.Instrumentation.callActivityOnCreate(Instrumentation.java:1309)
+        at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:3422)
+        at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:3601)
+        at android.app.servertransaction.LaunchActivityItem.execute(LaunchActivityItem.java:85)
+        at android.app.servertransaction.TransactionExecutor.executeCallbacks(TransactionExecutor.java:135)
+        at android.app.servertransaction.TransactionExecutor.execute(TransactionExecutor.java:95)
+        at android.app.ActivityThread$H.handleMessage(ActivityThread.java:2066)
+        at android.os.Handler.dispatchMessage(Handler.java:106)
+        at android.os.Looper.loop(Looper.java:223)
+        at android.app.ActivityThread.main(ActivityThread.java:7656)
+        at java.lang.reflect.Method.invoke(Native Method)
+        at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:592)
+        at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:947)
+2021-01-29 16:37:35.237 4208-4208/? D/CredentialHelper:    jks_alias: -1
+2021-01-29 16:37:35.237 4208-4208/? D/CredentialHelper: got a CA cert
+2021-01-29 16:37:35.269 1544-1569/? D/ArtManagerInternalImpl: /data/misc/iorapd/com.android.certinstaller/30/com.android.certinstaller.CertInstaller/compiled_traces/compiled_trace.pb doesn't exist
+2021-01-29 16:37:35.270 1544-1569/? I/ActivityTaskManager: Displayed com.android.certinstaller/.CertInstaller: +693ms
+2021-01-29 16:37:35.278 1544-1564/? D/EventSequenceValidator: onActivityLaunchFinished during UNKNOWN.
+    java.lang.Throwable: EventSequenceValidator#getStackTrace
+        at com.google.android.startop.iorap.EventSequenceValidator.logWarningWithStackTrace(EventSequenceValidator.java:260)
+        at com.google.android.startop.iorap.EventSequenceValidator.onActivityLaunchFinished(EventSequenceValidator.java:185)
+        at com.android.server.wm.LaunchObserverRegistryImpl.handleOnActivityLaunchFinished(LaunchObserverRegistryImpl.java:175)
+        at com.android.server.wm.LaunchObserverRegistryImpl.lambda$QcawcFcJtEX4EhYptq_Vb4j368Y(Unknown Source:0)
+        at com.android.server.wm.-$$Lambda$LaunchObserverRegistryImpl$QcawcFcJtEX4EhYptq_Vb4j368Y.accept(Unknown Source:10)
+        at com.android.internal.util.function.pooled.PooledLambdaImpl.doInvoke(PooledLambdaImpl.java:292)
+        at com.android.internal.util.function.pooled.PooledLambdaImpl.invoke(PooledLambdaImpl.java:201)
+        at com.android.internal.util.function.pooled.OmniFunction.run(OmniFunction.java:97)
+        at android.os.Handler.handleCallback(Handler.java:938)
+        at android.os.Handler.dispatchMessage(Handler.java:99)
+        at android.os.Looper.loop(Looper.java:223)
+        at android.os.HandlerThread.run(HandlerThread.java:67)
+        at com.android.server.ServiceThread.run(ServiceThread.java:44)
+2021-01-29 16:37:35.278 1544-1564/? D/EventSequenceValidator: dec AccIntentStartedEvents to 1
+2021-01-29 16:37:35.371 613-613/? E/SELinux: avc:  denied  { find } for pid=2321 uid=10208 name=tethering scontext=u:r:grilservice_app:s0:c208,c256,c512,c768 tcontext=u:object_r:tethering_service:s0 tclass=service_manager permissive=0
+2021-01-29 16:37:35.405 940-1043/? D/VSC: @ 21959.746: [WO] tilt angle 89
+2021-01-29 16:37:35.416 613-613/? E/SELinux: avc:  denied  { find } for pid=22607 uid=10227 name=tethering scontext=u:r:permissioncontroller_app:s0:c227,c256,c512,c768 tcontext=u:object_r:tethering_service:s0 tclass=service_manager permissive=0
+2021-01-29 16:37:35.572 613-613/? E/SELinux: avc:  denied  { find } for pid=2321 uid=10208 name=tethering scontext=u:r:grilservice_app:s0:c208,c256,c512,c768 tcontext=u:object_r:tethering_service:s0 tclass=service_manager permissive=0
+2021-01-29 16:37:35.617 613-613/? E/SELinux: avc:  denied  { find } for pid=22607 uid=10227 name=tethering scontext=u:r:permissioncontroller_app:s0:c227,c256,c512,c768 tcontext=u:object_r:tethering_service:s0 tclass=service_manager permissive=0
+2021-01-29 16:37:35.773 613-613/? E/SELinux: avc:  denied  { find } for pid=2321 uid=10208 name=tethering scontext=u:r:grilservice_app:s0:c208,c256,c512,c768 tcontext=u:object_r:tethering_service:s0 tclass=service_manager permissive=0
+2021-01-29 16:37:35.819 613-613/? E/SELinux: avc:  denied  { find } for pid=22607 uid=10227 name=tethering scontext=u:r:permissioncontroller_app:s0:c227,c256,c512,c768 tcontext=u:object_r:tethering_service:s0 tclass=service_manager permissive=0
+2021-01-29 16:37:35.975 613-613/? E/SELinux: avc:  denied  { find } for pid=2321 uid=10208 name=tethering scontext=u:r:grilservice_app:s0:c208,c256,c512,c768 tcontext=u:object_r:tethering_service:s0 tclass=service_manager permissive=0
+2021-01-29 16:37:36.013 2163-9620/? D/NetworkMonitor/100: PROBE_DNS www.google.com 10ms OK 159.138.20.20
+2021-01-29 16:37:36.016 2163-9621/? D/NetworkMonitor/100: PROBE_DNS connectivitycheck.gstatic.com 12ms OK 203.208.50.98
+2021-01-29 16:37:36.020 613-613/? E/SELinux: avc:  denied  { find } for pid=22607 uid=10227 name=tethering scontext=u:r:permissioncontroller_app:s0:c227,c256,c512,c768 tcontext=u:object_r:tethering_service:s0 tclass=service_manager permissive=0
+2021-01-29 16:37:36.177 613-613/? E/SELinux: avc:  denied  { find } for pid=2321 uid=10208 name=tethering scontext=u:r:grilservice_app:s0:c208,c256,c512,c768 tcontext=u:object_r:tethering_service:s0 tclass=service_manager permissive=0
+2021-01-29 16:37:36.177 2163-9621/? D/NetworkMonitor/100: PROBE_HTTP http://connectivitycheck.gstatic.com/generate_204 time=160ms ret=204 request={Connection=[close], User-Agent=[Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.32 Safari/537.36]} headers={null=[HTTP/1.1 204 No Content], Connection=[close], Content-Length=[0], Date=[Fri, 29 Jan 2021 08:37:35 GMT], X-Android-Received-Millis=[1611909456176], X-Android-Response-Source=[NETWORK 204], X-Android-Selected-Protocol=[http/1.1], X-Android-Sent-Millis=[1611909456033]}
+2021-01-29 16:37:36.224 613-613/? E/SELinux: avc:  denied  { find } for pid=22607 uid=10227 name=tethering scontext=u:r:permissioncontroller_app:s0:c227,c256,c512,c768 tcontext=u:object_r:tethering_service:s0 tclass=service_manager permissive=0
+2021-01-29 16:37:36.276 940-1043/? D/VSC: @ 21960.617: [Significant Motion] Request motion_detect, interval 18446744027136.0 ms, latency 0.0 ms
+2021-01-29 16:37:36.282 940-1043/? D/VSC: @ 21960.617: [Significant Motion] Stop accel
+2021-01-29 16:37:36.282 940-1043/? D/ASH: @ 21960.622: SensorType 195 resampler quality 2
+2021-01-29 16:37:36.380 613-613/? E/SELinux: avc:  denied  { find } for pid=2321 uid=10208 name=tethering scontext=u:r:grilservice_app:s0:c208,c256,c512,c768 tcontext=u:object_r:tethering_service:s0 tclass=service_manager permissive=0
+2021-01-29 16:37:36.427 613-613/? E/SELinux: avc:  denied  { find } for pid=22607 uid=10227 name=tethering scontext=u:r:permissioncontroller_app:s0:c227,c256,c512,c768 tcontext=u:object_r:tethering_service:s0 tclass=service_manager permissive=0
+2021-01-29 16:37:36.584 613-613/? E/SELinux: avc:  denied  { find } for pid=2321 uid=10208 name=tethering scontext=u:r:grilservice_app:s0:c208,c256,c512,c768 tcontext=u:object_r:tethering_service:s0 tclass=service_manager permissive=0
+2021-01-29 16:37:36.631 613-613/? E/SELinux: avc:  denied  { find } for pid=22607 uid=10227 name=tethering scontext=u:r:permissioncontroller_app:s0:c227,c256,c512,c768 tcontext=u:object_r:tethering_service:s0 tclass=service_manager permissive=0
+2021-01-29 16:37:36.786 613-613/? E/SELinux: avc:  denied  { find } for pid=2321 uid=10208 name=tethering scontext=u:r:grilservice_app:s0:c208,c256,c512,c768 tcontext=u:object_r:tethering_service:s0 tclass=service_manager permissive=0
+2021-01-29 16:37:36.833 613-613/? E/SELinux: avc:  denied  { find } for pid=22607 uid=10227 name=tethering scontext=u:r:permissioncontroller_app:s0:c227,c256,c512,c768 tcontext=u:object_r:tethering_service:s0 tclass=service_manager permissive=0
+2021-01-29 16:37:36.892 1544-1564/? I/DisplayManagerService: Display device changed: DisplayDeviceInfo{"内置屏幕": uniqueId="local:19260504575090817", 1440 x 3040, modeId 2, defaultModeId 2, supportedModes [{id=1, width=1440, height=3040, fps=90.0}, {id=2, width=1440, height=3040, fps=60.000004}], colorMode 7, supportedColorModes [7, 9], HdrCapabilities HdrCapabilities{mSupportedHdrTypes=[2, 3, 4], mMaxLuminance=500.0, mMaxAverageLuminance=500.0, mMinLuminance=0.0}, allmSupported false, gameContentTypeSupported false, density 560, 537.882 x 539.972 dpi, appVsyncOff 2333332, presDeadline 11500000, touch INTERNAL, rotation 0, type INTERNAL, address {port=129, model=0x446d53ad64a0}, deviceProductInfo DeviceProductInfo{name=, manufacturerPnpId=QCM, productId=1, modelYear=null, manufactureDate=ManufactureDate{week=27, year=2006}, relativeAddress=null}, state ON, FLAG_DEFAULT_DISPLAY, FLAG_ROTATES_WITH_CONTENT, FLAG_SECURE, FLAG_SUPPORTS_PROTECTED_BUFFERS}
+2021-01-29 16:37:36.900 1544-1565/? W/LocalDisplayAdapter: Unable to find color mode 0, ignoring request.
+2021-01-29 16:37:36.925 1544-1564/? I/DisplayManagerService: Display device changed: DisplayDeviceInfo{"内置屏幕": uniqueId="local:19260504575090817", 1440 x 3040, modeId 1, defaultModeId 2, supportedModes [{id=1, width=1440, height=3040, fps=90.0}, {id=2, width=1440, height=3040, fps=60.000004}], colorMode 7, supportedColorModes [7, 9], HdrCapabilities HdrCapabilities{mSupportedHdrTypes=[2, 3, 4], mMaxLuminance=500.0, mMaxAverageLuminance=500.0, mMinLuminance=0.0}, allmSupported false, gameContentTypeSupported false, density 560, 537.882 x 539.972 dpi, appVsyncOff 2333333, presDeadline 11500000, touch INTERNAL, rotation 0, type INTERNAL, address {port=129, model=0x446d53ad64a0}, deviceProductInfo DeviceProductInfo{name=, manufacturerPnpId=QCM, productId=1, modelYear=null, manufactureDate=ManufactureDate{week=27, year=2006}, relativeAddress=null}, state ON, FLAG_DEFAULT_DISPLAY, FLAG_ROTATES_WITH_CONTENT, FLAG_SECURE, FLAG_SUPPORTS_PROTECTED_BUFFERS}
+2021-01-29 16:37:36.930 1544-1565/? W/LocalDisplayAdapter: Unable to find color mode 0, ignoring request.
